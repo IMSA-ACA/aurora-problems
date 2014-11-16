@@ -2,4 +2,4 @@ An introduction to `grep`.
 
 Skill: Use `grep` to search a file.
 
-Hint: Searching by hand is a waste of time.
+Hint: The flag will be on a line that starts with "flag:".
