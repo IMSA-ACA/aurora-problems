@@ -1,0 +1,5 @@
+An introduction to `grep`.
+
+Skill: Use `grep` to search a file.
+
+Hint: Searching by hand is a waste of time.

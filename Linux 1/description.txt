@@ -1,0 +1,5 @@
+An introduction to `cat`.
+
+Skill: Use `cat` to view the contents of a file.
+
+Hint: Meow.
