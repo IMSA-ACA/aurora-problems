@@ -1,4 +1,4 @@
 General prompt:
-Given the ciphertext of a flag and the key data of the RSA encryption used, can you uncover the flag for us?
+Given the hex encoded ciphertext of a flag and the hex encoded key data of the RSA encryption used, can you uncover the flag for us?
 
 flag: ThisIsJustTheBeginningOfRSA!
